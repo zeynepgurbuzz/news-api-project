@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Güncellenmiş Haber Başlığı",
+        "description": "Haber açıklaması",
+        "source": "TechNews",
+        "url": "https://example.com"
+    },
+    {
+        "title": "Python API Kullanımı",
+        "description": "Haber açıklaması",
+        "source": "TechNews",
+        "url": "https://example.com"
+    }
+]
